@@ -1,4 +1,4 @@
-ShadowsocksR for Windows
+xxx for Windows
 =======================
 
 Removed
